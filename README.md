@@ -1,16 +1,16 @@
-![Movies_For_Hackers_Logo](http://nikolaskama.me/content/images/2017/02/movies-for-hackers.png)
+![Movies_For_Hackers_Logo](movies.png)
 
 # 黑客必看电影
 
 > 每个黑客程序员都应该看的电影！
 
-查看作者的博客 [blog](https://oceanpad.github.io/) 和关注作者的推特 [Twitter](https://twitter.com/oceanpad).
+查看作者的博客 [blog](https://oceanpad.github.io/) 和关注作者的推特 [Twitter](https://twitter.com/HaiyangZhao).
 
 ## Contents
 
 - [黑客必看电影](#黑客必看电影)
- - [惊悚/剧情](#惊悚/剧情)
- - [科幻/奇幻](#科幻类)
+ - [惊悚剧情](#惊悚剧情)
+ - [科幻类](#科幻类)
  - [动作](#动作)
  - [纪录片](#纪录片)
 - [电视节目](#电视节目)
@@ -19,7 +19,7 @@
 
 - - -
 
-## 惊悚/剧情
+## 惊悚剧情
 
 | 电影                                                                                       | 分类                      | 年   | 评分   |
 |--------------------------------------------------------------------------------------------|---------------------------|------|--------|
